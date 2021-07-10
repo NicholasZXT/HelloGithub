@@ -10,3 +10,5 @@ add by remote.
 add by remote -v2.
 
 add by remote -v3.
+
+test for revert -v1
