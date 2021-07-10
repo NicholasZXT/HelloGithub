@@ -5,3 +5,5 @@ add by remote -v2
 add by local -v2
 
 add by local -v3
+
+test for revert -v2
